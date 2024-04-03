@@ -277,4 +277,4 @@ async def get_skin(username):
 
 
     
-bot.run("MTIyNDk3MjY1OTE1NTE0NDc1Ng.GpZmW5.x4aX347wVzRV_VPN5qpPQ2uTfA3TRBAIzb5lM0")
+bot.run("token")
